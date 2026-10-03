@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**alwayszoey/alwayszoey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+const developer = {
+  name: "Your Name",
+  role: "Full Stack Developer",
+  location: "Bangkok, Thailand 🇹🇭",
+  stack: {
+    frontend: ["React", "Next.js", "TypeScript", "TailwindCSS"],
+    backend: ["Node.js", "Express", "NestJS", "Python"],
+    database: ["PostgreSQL", "MongoDB", "Redis"],
+    devops: ["Docker", "AWS", "CI/CD", "Nginx"]
+  },
+  currentFocus: "Building scalable web applications",
+  lifePhilosophy: "Code. Break. Fix. Repeat. ☕"
+};
